@@ -39,12 +39,13 @@ There are two ways to install it. which I will describe in detail.
   <p>Create a directory src where the projects that the developer wants to work would be created.</p>
  </li>
 <li>
-  <h2>Or</h2>
-<code>composer install</code>  
+  <p>Or</p>
+  <p>Copy this package to your local computer and type the following command in that current directory</p>
+  <code>composer install</code>
+  <p>Composer itself will install the accompanying components and set all the parameters of that project</p>
 </li>
 
 </ul>
-# Settings
 
 # Acknowledgement
 The CodeIgniter team would like to thank EllisLab, all the contributors to the CodeIgniter project and you, the CodeIgniter user.
