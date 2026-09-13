@@ -1,4 +1,7 @@
 # codeigniter-development
-# Install server
 
+# Install server
+composer create-project codeigniter/framework
+
+composer install
 # Settings
