@@ -14,7 +14,7 @@ It should work on 8.4 as well, but we strongly advise you NOT to run such old ve
 # Installation CodeIgniter 4 local
 Please see the <a href="https://codeigniter.com/userguide4/installation/index.html">installation section</a> of the CodeIgniter User Guide.
 # License
-Please see the license agreement.
+Please see the <a href="https://github.com/vukvukasinovic-hack/codeigniter-development/blob/main/LICENSE">license agreement.</a>
 
 # Release Information
   This repo contains in-development code for future releases. To download the latest stable release please visit the <a href="https://codeigniter.com/download">CodeIgniter Downloads page.</a>
