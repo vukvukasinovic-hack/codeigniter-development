@@ -30,10 +30,20 @@ Please see the <a href="https://github.com/vukvukasinovic-hack/codeigniter-devel
 Report security issues to our <a href="mailto:security@codeigniter.com">Security Panel</a> or via our <a href="https://hackerone.com/codeigniter">page on HackerOne</a>, thank you.
 
 
-# Install project
+# Usage
+There are two ways to install it. which I will describe in detail.
+<ul>
+ <li>
+   <p>The first way is classically to create a project via the <a href="https://packagist.org">packagist list</a> with the following command:</p>
 <code>composer create-project codeigniter/framework</code>
+  <p>Create a directory src where the projects that the developer wants to work would be created.</p>
+ </li>
+<li>
+  <h2>Or</h2>
+<code>composer install</code>  
+</li>
 
-<code>composer install</code>
+</ul>
 # Settings
 
 # Acknowledgement
