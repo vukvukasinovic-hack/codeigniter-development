@@ -67,5 +67,6 @@ There are two ways to install it. which I will describe in detail.
     "minimum-stability": "stable" // Project stability
 }
 </code>
+
 # Acknowledgement
 The CodeIgniter team would like to thank EllisLab, all the contributors to the CodeIgniter project and you, the CodeIgniter user.
