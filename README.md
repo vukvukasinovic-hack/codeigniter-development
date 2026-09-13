@@ -47,6 +47,7 @@ There are two ways to install it. which I will describe in detail.
 
 </ul>
 # Setting
+<p>Basic settings can be easily changed in a regular text editor</p>
 <code>
   {
     "name": "NAME PROJECT",
