@@ -46,6 +46,26 @@ There are two ways to install it. which I will describe in detail.
 </li>
 
 </ul>
-
+# Setting
+<code>
+  {
+    "name": "NAME PROJECT",
+    "description": "Server Test Application",
+    "require": {
+        "codeigniter4/framework": "^4.7" // The original CodeIgniter framework
+    },
+    "autoload": {
+        "psr-4": {
+            "Vukasinovic\\Server\\": "src/" // The directory where the projects are located
+        }
+    },
+    "authors": [
+        {
+            "name": "NAME" // Name of Author
+        }
+    ],
+    "minimum-stability": "stable" // Project stability
+}
+</code>
 # Acknowledgement
 The CodeIgniter team would like to thank EllisLab, all the contributors to the CodeIgniter project and you, the CodeIgniter user.
