@@ -12,7 +12,7 @@ PHP version 8.4 or newer is recommended.
 It should work on 8.4 as well, but we strongly advise you NOT to run such old versions of PHP, because of potential security and performance issues, as well as missing features.
 
 # Installation CodeIgniter 4 local
-Please see the <a href="https://codeigniter.com/userguide4/installation/index.html">installation section</a> of the CodeIgniter User Guide or CoudeIgniter Github repository <a href="https://github.com/codeigniter4/CodeIgniter4">link</a>
+Please see the <a href="https://codeigniter.com/userguide4/installation/index.html">installation section</a> of the CodeIgniter User Guide or CoudeIgniter Github repository <a href="https://github.com/codeigniter4/CodeIgniter4">link...</a>
 
 # License
 Please see the <a href="https://github.com/vukvukasinovic-hack/codeigniter-development/blob/main/LICENSE">license agreement.</a>
