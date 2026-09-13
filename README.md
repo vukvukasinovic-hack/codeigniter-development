@@ -29,9 +29,9 @@ Report security issues to our <a href="mailto:security@codeigniter.com">Security
 
 
 # Install project
-composer create-project codeigniter/framework
+<code>composer create-project codeigniter/framework</code>
 
-composer install
+<code>composer install</code>
 # Settings
 
 # Acknowledgement
