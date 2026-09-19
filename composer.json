@@ -1,8 +1,10 @@
 {
     "name": "vukasinovic/server",
+    "version": "0.5.0"
     "description": "Server Test Application",
     "require": {
-        "codeigniter4/framework": "^4.7"
+        "codeigniter4/framework": "^4.7",
+        "guzzlehttp/guzzle": "^8.2"
     },
     "autoload": {
         "psr-4": {
@@ -14,5 +16,8 @@
             "name": "Vuk Vukasinovic"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "^13.3"
+    }
 }
